@@ -1,7 +1,8 @@
 <template>
     <div class="page">
-        <h1>Test</h1>
+        <h1>HEADER</h1>
         <slot />
+        <h2>FOOTER</h2>
     </div>
   </template>
 
